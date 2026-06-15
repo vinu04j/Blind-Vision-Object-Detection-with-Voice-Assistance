@@ -12,7 +12,7 @@ A Python desktop application that helps visually impaired users detect nearby ob
 
 ## 🛠️ Tech Stack
 
-- **Python 3.9+**
+- **Python 3.10*
 - **OpenCV** - Webcam capture and image processing
 - **TensorFlow** - Pre-trained MobileNetV2 for object detection
 - **pyttsx3** - English text-to-speech
